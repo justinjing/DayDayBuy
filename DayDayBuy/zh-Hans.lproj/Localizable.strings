@@ -1,0 +1,39 @@
+/* 
+  InfoPlist.strings
+  DayDayBuy
+
+  Created by 王晨晓 on 15/7/2.
+  Copyright (c) 2015年 chinsyo. All rights reserved.
+*/
+
+CFBundleDisplayName = "天天买";
+"DayDayBuy" = "天天买";
+"Home" = "首页";
+"Abroad" = "海淘";
+"Rank" = "排行";
+"Setting" = "设置";
+"Search" = "搜索";
+"Official Weibo" = "官方微博";
+"Official Site" = "官方网站";
+"Comments It" = "给个好评";
+"Clean Cache" = "清除缓存";
+"My Bookmark" = "我的收藏";
+"Buy Now" = "现在购买";
+"Bookmark" = "收藏";
+"Disconnect" = "当前连接无网络响应";
+"Disconnect Detail" = "是否设置网络继续浏览？";
+"Ignore" = "忽略";
+"Check" = "设置";
+"Cellular Connect" = "当前连接为蜂窝数据";
+"Cellular Connect Detail" = "是否设置Wi-Fi继续浏览?";
+"Clean Cache File" = "删除缓存文件";
+"Clean" = "删除";
+"Cancel" = "取消";
+"Edit" = "编辑";
+"Delete" = "删除";
+"Mark" = "收藏";
+"Cancel" = "取消";
+"Bookmark Success" = "收藏成功";
+"Cancel Bookmark" = "取消收藏";
+"More Information" = "您可以打开<设置－我的收藏>查看和编辑收藏列表";
+"Okay" = "知道了";

@@ -1,0 +1,31 @@
+//
+//  DayDayBuy-Prefix.pch
+//  DayDayBuy
+//
+//  Created by 王晨晓 on 15/6/30.
+//  Copyright (c) 2015年 chinsyo. All rights reserved.
+//
+
+#ifndef DayDayBuy_DayDayBuy_Prefix_pch
+#define DayDayBuy_DayDayBuy_Prefix_pch
+
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#endif
+
+#import "kUrl.h"
+#import "kDefine.h"
+#import "MyHelper.h"
+#import "DBManager.h"
+#import "DDBGoodsItem.h"
+#import "UINavigationItem+TitleView.h"
+
+#define __RELEASE__
+#ifndef __RELEASE__
+#define NSLog(...) NSLog(__VA_ARGS__)
+#else 
+#define NSLog(...) 
+#endif
+
+#endif

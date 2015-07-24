@@ -1,0 +1,39 @@
+/* 
+  InfoPlist.strings
+  DayDayBuy
+
+  Created by 王晨晓 on 15/7/2.
+  Copyright (c) 2015年 chinsyo. All rights reserved.
+*/
+
+CFBundleDisplayName = "DayDayBuy";
+"DayDayBuy" = "DayDayBuy";
+"Home" = "Home";
+"Abroad" = "Abroad";
+"Rank" = "Rank";
+"Setting" = "Setting";
+"Search" = "Search";
+"Official Weibo" = "Official Weibo";
+"Official Site" = "Official Site";
+"Comments It" = "Comments It";
+"Clean Cache" = "Clean Cache";
+"My Bookmark" = "My Bookmark";
+"Buy Now" = "Buy Now";
+"Bookmark" = "Bookmark";
+"Disconnect" = "Disconnect";
+"Disconnect Detail" = "No current network connection, check the network settings";
+"Ignore" = "Ignore";
+"Check" = "Check";
+"Cellular Connect" = "Cellular Connect";
+"Cellular Connect Detail" = "Current network connection is cellular data, switch to setting and check?";
+"Clean Cache File" = "Clean Cache File";
+"Clean" = "Clean";
+"Cancel" = "Cancel";
+"Edit" = "Edit";
+"Delete" = "Delete";
+"Mark" = "Mark";
+"Cancel" = "Cancel";
+"Bookmark Success" = "Bookmark Success";
+"Cancel Bookmark" = "Cancel Bookmark";
+"More Information" = "For more information, switch to <Setting - MyBookmark>";
+"Okay" = "Okay";
